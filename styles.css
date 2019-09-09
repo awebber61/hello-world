@@ -1,17 +1,170 @@
-* {
-  margin:0px;
-  padding:0px;
+body {
+  background-color: whitesmoke;
+  font-family: 'Raleway', sans-serif;
+}
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navigation li {
+    font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 10px;
+    color: slategray
+}
+.navigation li:hover {
+    font-size: 30;
+    font-weight: 600;
+    letter-spacing: 5px;
+    padding: 10px;
+  color: orangered;
+}
+.navigation li.logo {
+    color:slategray;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+.navigation li.logo:hover {
+color:slategrey;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 10px;
+}
+.title {
+    white-space: normal;
+    
+    
+}
+#banner {
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+        background-repeat:no-repeat;
+       background-size:cover;
+    background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+    height: 575px;
+    width: 100%;
+  margin: 0;
+    padding:0;
+}
+#banner .content h1 {
+    border: 10px solid whitesmoke;
+    position: relative;
+    text-align: center;
+    top: 175px;
+    width:600px;
+    padding: 50px;
+    margin: 0 auto;
+    color: whitesmoke;
+    font-size: 80px;
+}
+.share {
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+    font-size: 26px;
+    font-weight: 500;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+.share a {
+  background: orangered;
+  border: 1px solid 
+orangered;
+    box-shadow: 5px 10px lightgray;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none;
 }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+.share a:hover {
+  background: white;
+  border: 1px solid orangered;
+  color: orangered;
+}
+.h1 {
+    display: block;
+     box-shadow: 5px 10px lightgray;
+    border: 5px solid orangered;
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    margin-top: 60px;
+}
+.question{
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: slategray;
+    line-height: 48px;
+    font-variant-caps: all-small-caps;
+}
+.h2 {
+    font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: slategray;
+    line-height: 48px;
+
+}
+    
+.html, body { margin: 0; padding: 0; } 
+
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 600px;
+  height: 800px;
+  overflow:inherit;
+}
+.quote_text {
+    display: block;
+     box-shadow: 5px 10px lightgray;
+    border: 5px solid orangered;
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 60px;
+}
+.popup a:link {
+  font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 10px;
+    color: slategray;
+    text-decoration: none;
+}
+
+/* visited link */
+.popup a:visited {
+ font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 10px;
+    color: slategray;
+    text-decoration: none;
+}
+
+/* mouse over link */
+.popup a:hover {
+ font-size: 30;
+    font-weight: 600;
+    letter-spacing: 5px;
+    padding: 15px;
+  color: orangered;
+      text-decoration: none;
+}
+
+/* selected link */
+.popup a:active {
+  color: orangered;
 }
