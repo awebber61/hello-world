@@ -1,0 +1,42 @@
+.bg {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f7/Stop_the_light_by_Mato_Rachela.jpg");
+        background-repeat:no-repeat;
+       background-size:cover;
+    background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+     height: 800px;
+    width: 100%;
+  margin: 0;
+    padding:0;
+}
+.html, body { margin: 0; padding: 0; } 
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.content {
+  position: absolute;
+ border: 10px solid whitesmoke;
+    text-align: center;
+    top: 175px;
+    width: 600px;
+    padding: 0;
+    margin: 0 auto;
+    color: whitesmoke;
+    font-size: 80px;
+    left: 200px;
+    right:200px;
+}
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 600px;
+  height: 800px;
+  overflow:inherit;
+}
+body {
+  background-color: whitesmoke;
+  font-family: 'Raleway', sans-serif;
