@@ -42,14 +42,14 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 .polaroid {
-  width: 80%;
+  width: 100%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 14px;
   color: dimgray;
-  border: 3px solid orangered;
-  font-weight: 900;
+  font-weight: 100;
   font-size: 30px;
+  letter-spacing: 2px;
   text-align: left;
 }
 .polaroid1 {
@@ -58,20 +58,20 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 14px;
   color: dimgray;
-  border: 3px solid orangered;
-  font-weight: 900;
+  font-weight: 100;
   font-size: 30px;
+  letter-spacing: 2px;
   text-align: left;
 }
 .polaroid2 {
-  width: 80%;
+  width: 100%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 14px;
   color: dimgray;
-  border: 3px solid orangered;
   font-weight: 100;
   font-size: 30px;
-letter-spacing:2px;
+  letter-spacing:2px;
   text-align: left;
 }
+
