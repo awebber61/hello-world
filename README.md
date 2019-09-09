@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-> https://awebber61.github.io/hello-world/
+> https://awebber61.github.io/light/
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
