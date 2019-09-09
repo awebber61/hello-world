@@ -1,5 +1,6 @@
 body {
-  background-color: whitesmoke;
+body {
+  background-color: white;
   font-family: 'Raleway', sans-serif;
 }
 .navigation ul {
@@ -28,7 +29,7 @@ body {
     letter-spacing: 4px;
 }
 .navigation li.logo:hover {
-color:slategrey;
+color:slategray;
     font-size: 40px;
     font-weight: 800;
     letter-spacing: 10px;
@@ -51,14 +52,14 @@ color:slategrey;
     padding:0;
 }
 #banner .content h1 {
-    border: 10px solid whitesmoke;
+    border: 10px solid white;
     position: relative;
     text-align: center;
     top: 175px;
     width:600px;
     padding: 50px;
     margin: 0 auto;
-    color: whitesmoke;
+    color: white;
     font-size: 80px;
 }
 .share {
@@ -115,7 +116,9 @@ orangered;
 
 }
     
-.html, body { margin: 0; padding: 0; } 
+.html, body { margin: 0; padding: 0; 
+} 
+
 
 #main {
   margin: 0 auto;
@@ -124,6 +127,7 @@ orangered;
   width: 600px;
   height: 800px;
   overflow:inherit;
+  color: white;
 }
 .quote_text {
     display: block;
