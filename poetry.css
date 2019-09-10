@@ -44,7 +44,6 @@ body {
 .polaroid {
   width: 100%;
   background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 14px;
   color: dimgray;
   font-weight: 100;
@@ -66,10 +65,20 @@ body {
 .polaroid1 {
   width: 100%;
   background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 14px;
   color: dimgray;
   font-weight: 100;
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-align: left;
+}
+.polaroid1:hover {
+ width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 14px;
+  color: dimgray;
+  font-weight: 200;
   font-size: 30px;
   letter-spacing: 2px;
   text-align: left;
@@ -83,6 +92,16 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing:2px;
+  text-align: left;
+}
+.polaroid2:hover {
+ width: 100%;
+  background-color: white;
+  padding: 14px;
+  color: dimgray;
+  font-weight: 200;
+  font-size: 30px;
+  letter-spacing: 2px;
   text-align: left;
 }
 
