@@ -56,17 +56,17 @@ body {
     
 }
 .p{
-     font-weight: 100;
+    font-weight: 100;
     font-size: 20px;
     letter-spacing: 2px;
     color: slategray;
     line-height: 48px;
     text-align: center;
      width: 600px;
-    margin: 0 auto;
-  padding: 40px;
+     margin: 0 auto;
+     padding: 40px;
+    text-decoration: none;
 }
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
-}
