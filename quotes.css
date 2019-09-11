@@ -50,7 +50,7 @@ body {
   background-position: center;
   background-size: cover;
      height: 200px;
-    width: 1800px;
+    width: 100%;
   margin: 0;
     padding:0;
     
@@ -62,7 +62,7 @@ body {
     color: slategray;
     line-height: 48px;
     text-align: center;
-     width: 600px;
+     width: 100%;
      margin: 0 auto;
      padding: 40px;
     text-decoration: none;
