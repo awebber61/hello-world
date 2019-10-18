@@ -40,13 +40,13 @@
   margin: 0 auto;
   padding: 40px;
   text-align: center;
-  width: 900px;
+  width: 600px;
   height: 800px;
-  overflow: inherit;
+  overflow:inherit;
 }
 
 body {
-  background-color: white;
+  background-color: whitesmoke;
   font-family: 'Raleway', sans-serif;
 }
 

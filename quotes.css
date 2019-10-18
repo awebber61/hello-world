@@ -20,13 +20,6 @@
   position: relative;
 }
 
-.body {
-  background-color: white;
-  font-family: 'Raleway', sans-serif;
-  width: 1366px;
-  height: auto;
-}
-
 /* Bottom right text */
 
 .content {
@@ -78,4 +71,9 @@
   margin: 0 auto;
   padding: 0;
   text-decoration: none;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Raleway', sans-serif;
 }
