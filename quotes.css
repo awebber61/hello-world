@@ -1,5 +1,5 @@
 .bg {
-  background-image: url("https://thewallpaper.co//wp-content/uploads/2016/10preview/mobile-ocean-wallpapers-hd-4k-high-definition-windows-10-mac-apple-colourful-images-backgrounds-download-wallpaper-free-2560x1600.jpg");
+  background-image: url("https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -24,13 +24,15 @@
 
 .content {
   position: absolute;
-  border: 10px solid #00002d;
+  border: 10px solid white;
   text-align: center;
   top: 175px;
   width: 600px;
   padding: 0;
   margin: 0 auto;
-  color: #00002d;
+  color: white;
+  font-weight: 100;
+  font-stretch: expanded;
   font-size: 80px;
   left: 200px;
   right: 200px;
@@ -43,6 +45,32 @@
   width: 600px;
   height: 800px;
   overflow: inherit;
+}
+
+.photo {
+  background-image: url("https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.p {
+  font-weight: 100;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: slategray;
+  line-height: 48px;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-decoration: none;
 }
 
 body {
