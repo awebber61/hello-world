@@ -40,25 +40,25 @@
   margin: 0 auto;
   padding: 40px;
   text-align: center;
-  width: 600px;
+  width: px;
   height: 800px;
   overflow:inherit;
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: white;
   font-family: 'Raleway', sans-serif;
 }
 
 .polaroid {
   width: 80%;
   background-color: white;
-  padding: 14px;
+  padding: 30px;
   color: dimgray;
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .polaroid:hover {
@@ -70,7 +70,7 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .polaroid1 {
@@ -81,7 +81,7 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .polaroid1:hover {
@@ -93,7 +93,7 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .polaroid2 {
@@ -104,7 +104,7 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .polaroid2:hover {
@@ -116,12 +116,12 @@ body {
   font-weight: 100;
   font-size: 30px;
   letter-spacing: 2px;
-  text-align: left;
+  text-align: center;
 }
 
 .poemtitles {
   color: orangered;
-  text-align: center;
+  text-align: left;
 }
 
 .p {
